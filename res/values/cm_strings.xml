@@ -1120,4 +1120,10 @@
 
     <string name="sim_ringtone_title">SIM %d ringtone</string>
 
+    <string name="app_name_label_cm">App:</string>
+    <!-- label for last time used -->
+    <string name="last_time_used_label_cm">Last time used:</string>
+    <!-- label for usage time -->
+    <string name="usage_time_label_cm">Usage time:</string>
+
 </resources>
