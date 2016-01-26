@@ -87,4 +87,8 @@ limitations under the License.
     <color name="divider">#ffe0e0e0</color>
 
     <color name="white">#ffffffff</color>
+
+    <!-- BlackList colors -->
+    <color name="blacklist_enabled">#DD2C00</color>
+    <color name="blacklist_disabled">#D7D7D7</color>
 </resources>
